@@ -86,7 +86,7 @@ nav {
 .personal__logo {
   font-size: 24px;
   color: #6030b1;
-  margin: 0 12px;
+  margin: 0 16px;
   font-weight: bold;
 }
 
@@ -125,7 +125,7 @@ nav {
 }
 
 .about-me__info--title {
-  margin-bottom: 16px;
+  margin-bottom: 1px;
 }
 
 .about-me__info--para {
