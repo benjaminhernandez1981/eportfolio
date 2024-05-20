@@ -379,22 +379,23 @@ footer {
 
 /* Small phones, tablets, large smartphones */
 @media (max-width: 768px) {
-nav {
-  height: 68px;
-}
+  nav {
+    height: 68px;
+  }
 
-h1 {
-  font-size: 28px;
-}
+  h1 {
+    font-size: 28px;
+  }
 
-.about-me__info--para {
-  font-size: 18px;
-}
+  .about-me__info--para {
+    font-size: 18px;
+  }
 
-.language {
-  width: calc(100% /3);
-}
+  .language {
+    width: calc(100% / 3);
+  }
 
-.project__description--para {
-  font-size: 12px;
+  .project__description--para {
+    font-size: 12px;
+  }
 }
